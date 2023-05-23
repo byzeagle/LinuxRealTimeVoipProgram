@@ -1,5 +1,5 @@
 # LinuxRealTimeVoipApp
-Real-time Voip Program with ALSA for Linux platforms.
+(Almost) Real-time Voip Program with ALSA for Linux platforms.
 
 server.c file is UDP-Hole-Punching Server.
 
