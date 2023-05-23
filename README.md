@@ -7,7 +7,7 @@ You've got to compile it separately.
 
 Makefile doesn't include it.
 
-This program is a simplified version of commandline program **parole.
+This program is a simplified version of commandline program **parole**.
 
 Link: http://holdenc.altervista.org/parole/index.html
 
