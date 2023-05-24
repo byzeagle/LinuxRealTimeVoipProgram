@@ -18,3 +18,5 @@ It is quite fast, really resource efficient and really small in size and it can 
 I will later build an untrackable terminal-based voip program with ncurses and alsa. I am not working on it right now.
 
 The program is not trackable since it is truly a P2P one and there is not a server that is gateway to communication.
+
+Another advantage of this program is that it is single thread. It can work on platforms that do not support pthreads.
