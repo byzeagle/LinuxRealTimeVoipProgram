@@ -7,7 +7,7 @@ all: porsuk
 porsuk: porsuk.o voip.o xor-feed.o
 	$(CC) $(CFLAGS) porsuk.o voip.o xor-feed.o -o porsuk $(LFLAGS) 
 
-porsuk.o: porsuk.c voip.h
+porsuk.o: porsukUDPHP.c voip.h
 	$(CC) $(CFLAGS) -c porsukUDPHP.c
 
 voip.o: voip.c voip.h
