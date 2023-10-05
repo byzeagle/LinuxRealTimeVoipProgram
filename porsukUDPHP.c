@@ -11,7 +11,7 @@
 
 #define COMPLEXITY 10
 #define PORT 10000
-#define HOLE_PUNCHING_SERVER "8.208.81.190"
+#define HOLE_PUNCHING_SERVER "XXX"
 
 #define DEBUG
 #undef DEBUG
